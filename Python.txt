@@ -1,0 +1,20 @@
+demo_str="Hello"
+
+demo_var="10abc"
+
+Print(demo_var.isalnum()) --check the number or string or combine--true or false
+---
+ Functions: we main focus three modules.
+1.Map-
+2.Filter
+3.Reduce.
+
+Azure DataBricks:
+Create Resource.
+Create Databricks
+create compute
+
+=================================================
+Databricks:
+
+NOdes instead of machines
